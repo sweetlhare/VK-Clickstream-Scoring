@@ -1,3 +1,5 @@
+> **In English:** Clickstream scoring — a VK case at the Digital Breakthrough hackathon (St. Petersburg): word2vec / LaBSE / SVD URL features and gradient-boosting models. *(Full description in Russian below.)*
+
 # VK-Clickstream-Scoring
 
 Решение кейса от ВК на хакатоне Цифровой Прорыв в Санкт-Петербурге.
